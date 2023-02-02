@@ -22,17 +22,13 @@ Mac、Windows:
 2. 打开自签工具，下面以爱思助手为例
 
 3. 在爱思助手的工具箱内搜索IPA签名，搜索结果如下：
-
-   ![image-20230202204931744](.\README.assets\image-20230202204931744.png)
+<img src=".\README.assets\image-20230202204931744.png" alt="image-20230202205330821"  />
 
 4. 将下载的IPA文件添加到爱思助手，选择下方的使用Apple ID签名（若您购有证书，可以选择证书签名），登录后点击开始签名等待成功即可
-
-   <img src=".\README.assets\image-20230202205330821.png" alt="image-20230202205330821" style="zoom:70%;" />
+<img src=".\README.assets\image-20230202205330821.png" alt="image-20230202205330821" style="zoom:70%;" />
 
 5. 连接您的设备至电脑，然后返回到我的设备页面，点击导入刚才签名的IPA文件包即可安装成功
-
-   ![image-20230202205536289](.\README.assets\image-20230202205536289.png)
-
+ <img src=".\README.assets\image-20230202205536289.png" alt="image-20230202205330821"  />
    ------
 
    注意：如果您使用自己的Apple ID签名而非注册的开发者签名，可能需要每周重签一次
